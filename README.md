@@ -1,4 +1,4 @@
-
+`
 # Stars-and-Galaxies
 Example repository for the Stars and Galaxies workshop
 
@@ -16,10 +16,9 @@ Todays Tasks:
 
 ## Fix to install
 first get your current directory using command `pwd`. It should look something like this;
-`-bash-4.2$ pwd
+`-bash-4.2$ pwd`
 
-/home/p/pd/pdh21
-`
+`/home/p/pd/pdh21`
 
 Then open .bash_profile with `emacs .bash_profile` and add the following:
 
